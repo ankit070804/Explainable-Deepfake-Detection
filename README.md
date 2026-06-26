@@ -1,4 +1,5 @@
 Explainable Deepfake Detection System
+Dataset : https://www.kaggle.com/datasets/ucimachinelearning/deep-fake-dataset
 Overview
 
 Deepfake technology has advanced rapidly, making it increasingly difficult to distinguish manipulated media from authentic content. This project presents an Explainable Deepfake Detection System that classifies facial images as either Real or Fake while providing visual explanations for its predictions using Grad-CAM (Gradient-weighted Class Activation Mapping). The primary objective is to improve transparency in AI-based deepfake detection by allowing users to understand which facial regions influenced the model's decision.
